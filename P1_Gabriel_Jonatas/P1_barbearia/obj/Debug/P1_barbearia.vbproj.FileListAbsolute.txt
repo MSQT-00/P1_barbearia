@@ -1,0 +1,15 @@
+E:\P1_Gabriel_Jonatas\P1_barbearia\obj\Debug\P1_barbearia.vbproj.AssemblyReference.cache
+E:\P1_Gabriel_Jonatas\P1_barbearia\obj\Debug\P1_barbearia.vbproj.SuggestedBindingRedirects.cache
+E:\P1_Gabriel_Jonatas\P1_barbearia\obj\Debug\P1_barbearia.agendamento.resources
+E:\P1_Gabriel_Jonatas\P1_barbearia\obj\Debug\P1_barbearia.Barbearia.resources
+E:\P1_Gabriel_Jonatas\P1_barbearia\obj\Debug\P1_barbearia.Resources.resources
+E:\P1_Gabriel_Jonatas\P1_barbearia\obj\Debug\P1_barbearia.vbproj.GenerateResource.cache
+E:\P1_Gabriel_Jonatas\P1_barbearia\obj\Debug\P1_barbearia.vbproj.CoreCompileInputs.cache
+E:\P1_Gabriel_Jonatas\P1_barbearia\obj\Debug\P1_barbearia.adm.resources
+E:\P1_Gabriel_Jonatas\P1_barbearia\bin\Debug\P1_barbearia.exe
+E:\P1_Gabriel_Jonatas\P1_barbearia\bin\Debug\P1_barbearia.pdb
+E:\P1_Gabriel_Jonatas\P1_barbearia\bin\Debug\P1_barbearia.xml
+E:\P1_Gabriel_Jonatas\P1_barbearia\obj\Debug\P1_barbearia.exe
+E:\P1_Gabriel_Jonatas\P1_barbearia\obj\Debug\P1_barbearia.xml
+E:\P1_Gabriel_Jonatas\P1_barbearia\obj\Debug\P1_barbearia.pdb
+E:\P1_Gabriel_Jonatas\P1_barbearia\obj\Debug\P1_barbearia.Login_adm.resources
